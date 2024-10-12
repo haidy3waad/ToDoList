@@ -1,0 +1,51 @@
+body{
+    font-family: 'Nerko One', cursive;
+}
+
+#btn{
+    background-color: #5E4CC1;
+    transition: all 0.7s;
+   
+}
+#btn:hover{
+background-color: #33305c;
+color: white;
+}
+#getdata{
+    background-color: #A793EA;
+    transition: transform 0.5s ease;
+}
+
+#inp{
+    width: 240% !important;
+}
+.tasks{
+    background-color: #CCC3FF;
+    cursor: pointer;
+    transition: all 0.5s;
+}
+.tasks:hover{
+    width: 80% !important;
+}
+
+.icons i{
+    padding-left: 20px;
+    padding-right: 20px;
+    width: 10px;
+    transition: all 0.5s;
+}
+.icons i:hover{
+    color:#5E4CC1;
+}
+
+.steker{
+    position: fixed;
+    top: 150px;
+    right:40px;
+    display: none;
+    
+}
+
+
+
+
